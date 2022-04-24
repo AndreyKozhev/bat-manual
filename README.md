@@ -49,3 +49,4 @@ BAT файлы (**Batchfiles**) - пакетные файлы в ОС MS-DOS, OS
 [Документация](../main/help "Документация")  
 https://reservice.pro/faq/windows/121/  
 http://kirdenoff.blogspot.com/2013/01/ms-dos-microsoftwindows.html  
+https://miradmin.ru/batch-file/  
