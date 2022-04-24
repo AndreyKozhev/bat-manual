@@ -48,3 +48,4 @@ BAT файлы (**Batchfiles**) - пакетные файлы в ОС MS-DOS, OS
 [Примеры](../main/bat-example "Примеры")  
 [Документация](../main/help "Документация")  
 https://reservice.pro/faq/windows/121/  
+https://reservice.pro/faq/windows/121/
