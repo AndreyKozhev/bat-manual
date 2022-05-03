@@ -3,6 +3,7 @@ title Calculator
 color E1
 cls
 echo "Welcome to Calculator"
+echo "Andrey Kozhev 2022"
 echo "Enter an expression, you can apply:"
 echo "()    - grouping"             
 echo "! ~   - unary operators"         
