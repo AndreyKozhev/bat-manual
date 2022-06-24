@@ -1,8 +1,7 @@
 # Руководство по BAT
 [![wakatime](https://wakatime.com/badge/github/AndreyKozhev/bat-manual.svg)](https://wakatime.com/badge/github/AndreyKozhev/bat-manual)
 ## Назначение
-BAT файлы (**Batchfiles**) - пакетные файлы в ОС MS-DOS, OS/2, Windows.
-В них хранятся команды. Чаще всего пакетные файлы используются для
+BAT файлы (**Batchfiles**) - пакетные файлы в ОС MS-DOS, OS/2, Windows. Чаще всего пакетные файлы используются для
 автоматизации задач.  
 **Внимание!**  
 *Некоторые команды могут нанести вред системе!*
