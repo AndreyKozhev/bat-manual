@@ -1,5 +1,7 @@
 @echo off
+rem Задаём заголовок окна
 title Calculator
+rem Задаём цвета, очищаем экран и печатаем текст с операциями
 color E1
 cls
 echo "Welcome to Calculator"
@@ -16,7 +18,7 @@ echo "|     - binary OR"
 echo "= *= /= %%= += -=  - appropriation"    
 echo "&= ^= |= <<= >>="                  
 echo ",     - statement separator"    
-echo "exit  - Exit"     
+echo "exit  - exit"     
 :next
 set /p exp=
 if "%exp%"=="exit" goto exit
