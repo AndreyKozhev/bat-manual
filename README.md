@@ -8,6 +8,7 @@
    <img src="https://custom-icon-badges.herokuapp.com/github/languages/code-size/AndreyKozhev/bat-manual?logo=file-code&logoColor=white"/>
    <img src="https://custom-icon-badges.herokuapp.com/github/issues-raw/AndreyKozhev/bat-manual?logo=issue"/>
    <img src="https://custom-icon-badges.herokuapp.com/github/last-commit/AndreyKozhev/bat-manual?logo=history&logoColor=white"/>
+   <img src="https://custom-icon-badges.herokuapp.com/github/license/AndreyKozhev/bat-manual?logo=law"/>
 </p>
 
 ## Назначение
