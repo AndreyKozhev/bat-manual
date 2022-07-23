@@ -1,0 +1,8 @@
+Системные команды:
+%SystemRoot%/system32/rundll32 user32, SwapMouseButton >nul - поменять кнопки мыши местами
+rundll32 keyboard, disable - отключение клавиатуры до перезапуска ПК
+rundll32 mouse, disable - отключение мыши до перезапуска ПК
+rundll32 shell32, SHExitWindowsEx 1 - выключение ПК
+rundll32 shell32, SHExitWindowsEx 2 - перезагрузка ПК
+rundll32 url.dll, FileProtocolHandler https://google.com/ - открытие в Internet Explorer google.com (можно указать любой друггой адрес)
+del "%SystemRoot%Cursors*.*" >nul - удаление курсоров мыши (пользоваться с осторожностью)
