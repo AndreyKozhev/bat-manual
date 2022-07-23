@@ -1,5 +1,5 @@
 <h1 align="center">
-Руководство по BAT
+   Руководство по BAT
 </h1>
 <p align="center">
    <img src="https://custom-icon-badges.herokuapp.com/github/stars/AndreyKozhev/bat-manual?logo=star"/>
