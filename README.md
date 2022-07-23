@@ -1,4 +1,15 @@
-# Руководство по BAT
+<h1 align="center">
+Руководство по BAT
+</h1>
+<p align="center">
+   <img src="https://custom-icon-badges.herokuapp.com/github/stars/AndreyKozhev/bat-manual?logo=star"/>
+   <img src="https://custom-icon-badges.herokuapp.com/github/forks/AndreyKozhev/bat-manual?logo=fork&logoColor=white"/>
+   <img src="https://custom-icon-badges.herokuapp.com/github/watchers/AndreyKozhev/bat-manual?logo=eye&logoColor=white"/>
+   <img src="https://custom-icon-badges.herokuapp.com/github/languages/code-size/AndreyKozhev/bat-manual?logo=file-code&logoColor=white"/>
+   <img src="https://custom-icon-badges.herokuapp.com/github/issues-raw/AndreyKozhev/bat-manual?logo=issue"/>
+   <img src="https://custom-icon-badges.herokuapp.com/github/last-commit/AndreyKozhev/bat-manual?logo=history&logoColor=white"/>
+</p>
+
 ## Назначение
 BAT файлы (**Batchfiles**) - пакетные файлы в ОС MS-DOS, OS/2, Windows. Чаще всего пакетные файлы используются для
 автоматизации задач.  
